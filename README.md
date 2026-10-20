@@ -1,2 +1,2 @@
 # Dynamic optimization-Stiff equations-Path constraint-MV
-Optimal Design and Control of a Three-Tanks-in-Series System
+he project optimizes a three-tanks-in-series system using the intermediate flow rate as the manipulated variable instead of the inlet flow. The optimization finds the proportional-integral controller parameters and the first two tank areas to maintain the third tank level at a setpoint of 0.25 under a disturbance. This is direct control because the manipulated variable is downstream of the controlled variable, so increasing the intermediate flow decreases the tank level.
